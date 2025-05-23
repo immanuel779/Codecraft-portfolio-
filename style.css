@@ -1,0 +1,24 @@
+body {
+  scroll-behavior: smooth;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+header {
+  background: linear-gradient(to right, #0d6efd, #0b5ed7);
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+}
+
+footer i {
+  font-size: 1.2rem;
+}
